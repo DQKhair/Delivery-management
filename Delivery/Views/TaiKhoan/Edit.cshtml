@@ -1,0 +1,94 @@
+﻿@model Delivery.Models.TaiKhoan
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="row form-horizontal container  card-body border-0 shadow p-3 mt-3 mx-auto w-50">
+        <h4>Đổi Mật Khẩu</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.MaNhanVien)
+        <div class=" row " style="border-radius: 30px;">
+            <div class="col-6">
+                <div class="form-group">
+                    @Html.DisplayName("Tên tài khoản")
+                    <div class="col-md-12">
+                        @Html.EditorFor(model => model.TenTaiKhoan, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+                        @Html.ValidationMessageFor(model => model.TenTaiKhoan, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.DisplayName("Mật khẩu")
+                    <div class="col-md-12">
+                        <input id="" name="" type="password" class="form-control" value="@Html.DisplayFor(model => model.MatKhau)" readonly />
+                        @Html.ValidationMessageFor(model => model.MatKhau, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-6" onsubmit="return Validate()" method="post" actions="">
+                <div class="form-group">
+                    @Html.DisplayName("Mật khẩu mới")
+                    <div class="col-md-12">
+                        <input id="MatKhau" name="MatKhau" type="password" class="form-control" value="@Html.DisplayFor(model => model.MatKhau)" />
+
+                        @Html.ValidationMessageFor(model => model.MatKhau, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.DisplayName("Nhập lại mật khẩu mới")
+                    <div class="col-md-12">
+                        <input id="ReMatKhau" name="ReMatKhau" type="password" class="form-control" value="@Html.DisplayFor(model => model.MatKhau)" />
+                        <input type="checkbox" class="me-2" onclick="myFunction()">Show Password
+                        @Html.ValidationMessageFor(model => model.MatKhau, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-12 text-end mt-3">
+                        <button type="submit" value="Save" class="btn text-white " style="background: linear-gradient(90deg, #54BF5A 0.7%, #2D9147 71.82%); border-radius: 55px;">Save</button>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+}
+
+<Script>
+    function myFunction() {
+        var x = document.getElementById("MatKhau");
+        if (x.type == "MatKhau") {
+            x.type = "text";
+        }
+        else {
+            x.type = "MatKhau";
+        }
+    }
+
+    let MatKhau = document.getElementById("MatKhau");
+    let ReMatKhau = document.getElementById("ReMatKhau");
+
+    function Validate() {
+        if (MatKhau.value == ReMatKhau.value)
+            return true;
+        return false;
+    }
+</Script>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+}

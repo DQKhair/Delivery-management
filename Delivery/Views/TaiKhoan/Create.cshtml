@@ -1,0 +1,71 @@
+﻿@model Delivery.Models.NhanVien_ChuaTK_Result
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="container" style="background-color: #F2F2F2; padding: 50px; margin: auto">
+        <div class="form-horizontal" style="background-color: white; padding: 30px; border-radius: 1rem">
+            <h4>Thêm tài khoản</h4>
+            @Html.ValidationSummary(true, null, new { @class = "text-danger" })
+            @Html.ValidationMessage("Error", new { @class = "text-danger" })
+            <hr />
+            <div class="row">
+                <div class="col">
+                    <label for="" class="form-label">Role</label>
+                    @Html.DropDownList("LoaiTaiKhoan", null, new { @class = "form-select p-2 mw-100" })
+                </div>
+                <div class="col">
+                    <label for="" class="form-label">Tên nhân viên</label>
+                    @Html.DropDownList("MaNhanVien", null, new { @class = "form-select p-2 mw-100" })
+                </div>
+            </div>
+            <div class="row mt-2 mb-3">
+                <div class="col">
+                    <label for="" class="form-label">Username</label>
+                    @Html.EditorFor(model => model.TenTaiKhoan, new { htmlAttributes = new { @class = "form-control p-2 mw-100", @maxlength = "50" } })
+                    @Html.ValidationMessage("CreateFailed", new { @class = "text-danger" })
+                </div>
+                <div class="col">
+                    <label for="" class="form-label">Password</label>
+                    @Html.EditorFor(model => model.MatKhau, new
+                    {
+                        htmlAttributes = new
+                        {
+                    @id = "pass",
+                   @type = "password",
+                   @pattern = "^((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[\\W]).{8,50})",
+                   @title = "8 - 50 kí tự và bao gồm 1 chữ thường, 1 chữ hoa, 1 số và 1 kí tự đặc biệt.",
+                   @class = "form-control p-2 mw-100",
+               }
+                    })
+                </div>
+            </div>
+            <div class="d-flex justify-content-end text-lg-end">
+                @Html.ActionLink("Hủy", "Index", "User", new { @class = "btn btn-outline-success", @style = "border-radius: 1.5rem;  width: 100px;" })
+                <input class="btn btn-success" style="border-radius: 1.5rem; width: 100px; margin-left: 15px;" type="submit" value="Thêm" />
+            </div>
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+<script>
+    window.onload = () => {
+        const pass = document.getElementById('pass');
+        pass.onpaste = e => e.preventDefault();
+    }
+
+    //var valid = document.getElementById('pass');
+    //    valid.invalid = function (event) {
+    //        event.setCustomValidity('Mật khẩu phải từ 8 - 50 kí tự và bao gồm 1 chữ thường, 1 chữ hoa, 1 số và không kí tự đặc biệt.')
+    //    };
+</script>

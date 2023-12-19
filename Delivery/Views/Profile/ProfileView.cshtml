@@ -1,0 +1,135 @@
+﻿
+@{
+    var info = ViewBag.sua as Delivery.Models.Profile_Get_Result;
+    ViewBag.Title = "Profile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+
+@{
+    var successMessage = TempData["SuccessMessage"] as string;
+    var errorMessage = TempData["ErrorMessage"] as string;
+}
+
+@if (!string.IsNullOrEmpty(successMessage))
+{
+    <div id="notice" class="position-fixed" role="alert" style="bottom:5%; right:2%; width:32%;  background-color: rgba(36, 200, 104, 0.8); border-radius: 2.5rem;">
+        <div class="d-flex justify-content-around" style="height: 90px; position: relative;">
+
+            <i class="fas fa-check position-absolute top-50 translate-middle-y p-4 text-center"
+               style="background-color: rgba(36, 200, 104, 1); border-radius:50%; color:white; left:10%;"></i>
+
+            <div class="position-absolute top-50 translate-middle-y" style="right:25%; color:white;">
+                <h5>@successMessage</h5>
+            </div>
+
+        </div>
+    </div>
+}
+
+
+<form action="~/Profile/ProfileView" method="post" enctype="multipart/form-data">
+    <div class="container" style="background-color: #F2F2F2; padding: 50px; margin: auto">
+        <div class="form-horizontal row" style="background-color: white; padding: 30px; border-radius: 1rem">
+            <h4>Thông tin cá nhân</h4>
+            <hr />
+            <div class="col-4">
+                <div class="form-group">
+                    <label for="" class="form-label mb-2">Mã nhân viên</label>
+                    <div class="col mb-3 mt-2">
+                        <input class="form-control" type="text" value="@info.MaNhanVien" aria-label=" input example" disabled>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="" class="form-label mb-2">Họ tên</label>
+                    <div class="col mb-3 mt-2">
+                        <input type="text" name="tennhanvien" class="form-control" value="@info.TenNhanVien" maxlength="50" />
+                    </div>
+                    @Html.ValidationMessage("tennhanvien", "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    <label for="" class="form-label mb-2">Số điện thoại</label>
+                    <div class="col mb-3 mt-2">
+                        <input type="text" name="sodienthoai" class="form-control" value="@info.SoDienThoai" maxlength="11" />
+                    </div>
+                    @Html.ValidationMessage("sodienthoai", "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="col-4">
+                <div class="form-group">
+                    <label for="" class="form-label mb-2">Role</label>
+                    <div class="col mb-3 mt-2">
+                        <input type="text" name="anhdaidien" class="form-control" value="@info.TenLoai" disabled />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="" class="form-label mb-2">Ngày sinh</label>
+                    <div class="col mb-3 mt-2">
+                        <input type="date" name="ngaysinh" class="form-control" value="@(info.NgaySinh?.ToString("yyyy-MM-dd"))" />
+                    </div>
+                    @Html.ValidationMessage("ngaysinh", "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    <label for="" class="form-label mb-2">Khu vực hoạt động</label>
+                    <div class="col mb-3 mt-2">
+                        <input type="text" name="khuvuc" class="form-control" value="@info.TenKhuVuc" disabled />
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-4">
+                <div class="form-group">
+                    <label for="" class="form-label mb-2">Tên tài khoản</label>
+                    <div class="col mb-3 mt-2">
+                        <input class="form-control" type="text" value="@info.TenTaiKhoan" aria-label="Disabled input example" disabled />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="" class="form-label mb-2">Email</label>
+                    <div class="col mb-3 mt-2">
+                        <input type="email" name="email" class="form-control" value="@info.Email" maxlength="50" />
+                    </div>
+                    @Html.ValidationMessage("email", "", new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    <label for="" class="form-label mb-2">Image</label>
+                    <div class="col mb-3 mt-2">
+                        <input type="file" name="anhdaidien" class="form-control" value="" />
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="" class="form-label mb-2">Image Extension</label>
+                    <div class="col mb-3 mt-2">
+                        <input type="text" name="ImageExtension" class="form-control" value="" />
+                    </div>
+                    @Html.ValidationMessage("ImageExtension", "", new { @class = "text-danger" })
+                </div>
+
+            </div>
+            <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                @Html.ActionLink("Đổi Mật khẩu", "DoiMk", "Profile", new { id = info.MaNhanVien }, new { @class = "btn btn-outline-success", @style = "border-radius: 1.5rem; width: 150px; margin-top: 15px;" })
+                <button type="submit" name="id" value="@info.MaNhanVien" class="btn btn-success " style="border-radius: 1.5rem; width: 100px; margin-top: 15px;">Lưu</button>
+            </div>
+        </div>
+    </div>
+</form>
+
+<script>
+    $(document).ready(function () {
+
+        if ($("#notice").is(':visible')) {
+            $("#notice").css({ "position": "fixed", "bottom": "5%", "right": "2%" })
+
+            $("#notice").fadeIn(2500, function () {
+                $("#notice").fadeOut(3000)
+            });
+        }
+    });
+
+
+</script>
+

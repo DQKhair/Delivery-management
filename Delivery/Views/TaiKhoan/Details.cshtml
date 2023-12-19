@@ -1,0 +1,78 @@
+﻿
+@{
+    var ChiTietNV = ViewBag.ChiTietNhanVien as Delivery.Models.NhanVien_ChiTiet_Result;
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="container" style="background-color: #F2F2F2; padding: 50px; margin: auto">
+        <div class="form-horizontal row" style="background-color: white; padding: 30px; border-radius: 1rem">
+            <h4>Thông tin tài khoản</h4>
+            <hr />
+            <div class="col-4">
+                <div class="form-group">
+                    <label for="" class="form-label mb-2">Mã nhân viên</label>
+                    <div class="col mb-3 mt-2">
+                        <input class="form-control" type="text" value="@ChiTietNV.MaNhanVien" aria-label=" input example" readonly>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="" class="form-label mb-2">Họ tên</label>
+                    <div class="col mb-3 mt-2">
+                        <input type="text" name="hoten" class="form-control" value="@ChiTietNV.TenNhanVien" readonly />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="" class="form-label mb-2">Số điện thoại</label>
+                    <div class="col mb-3 mt-2">
+                        <input type="text" name="sdt" class="form-control" value="@ChiTietNV.SoDienThoai" readonly/>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-4">
+                <div class="form-group">
+                    <label for="" class="form-label mb-2">Role</label>
+                    <div class="col mb-3 mt-2">
+                        <input type="text" name="" class="form-control" value="@ChiTietNV.TenLoai" readonly />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="" class="form-label mb-2">Ngày sinh</label>
+                    <div class="col mb-3 mt-2">
+                        <input type="date" name="ngaysinh" class="form-control" value="@(ChiTietNV.NgaySinh?.ToString("yyyy-MM-dd"))" readonly />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="" class="form-label mb-2">Khu vực hoạt động</label>
+                    <div class="col mb-3 mt-2">
+                      <input type="text" name="khuvuc" class="form-control" value="@ChiTietNV.TenKhuVuc" readonly/>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-4">
+                <div class="form-group">
+                    <label for="" class="form-label mb-2">Tên tài khoản</label>
+                    <div class="col mb-3 mt-2">
+                        <input class="form-control" type="text" value="@ChiTietNV.TenTaiKhoan" aria-label="Disabled input example" readonly />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="" class="form-label mb-2">Email</label>
+                    <div class="col mb-3 mt-2">
+                        <input type="email" name="email" class="form-control" value="@ChiTietNV.Email" readonly/>
+                    </div>
+                </div>
+            </div>
+            <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                @Html.ActionLink("Hủy", "Index", "TaiKhoan", new { @class = "btn btn-outline-success", @style = "border-radius: 1.5rem;  width: 100px;" })
+            </div>
+        </div>
+    </div>
+}
+

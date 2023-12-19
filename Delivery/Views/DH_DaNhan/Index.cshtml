@@ -1,0 +1,94 @@
+﻿@model IEnumerable<Delivery.Models.DonHang>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var successMessage = TempData["SuccessMessage"] as string;
+}
+
+@if (!string.IsNullOrEmpty(successMessage))
+{
+    <div id="notice" class="position-fixed" role="alert" style="bottom:5%; right:2%; width:32%;  background-color: rgba(36, 200, 104, 0.8); border-radius: 2.5rem;">
+        <div class="d-flex justify-content-around" style="height: 90px; position: relative;">
+
+            <i class="fas fa-check position-absolute top-50 translate-middle-y p-4 text-center"
+               style="background-color: rgba(36, 200, 104, 1); border-radius:50%; color:white; left:10%;"></i>
+
+            <div class="position-absolute top-50 translate-middle-y" style="right:25%; color:white;">
+                <h5>@successMessage</h5>
+            </div>
+
+        </div>
+    </div>
+}
+
+<div class="container-fluid" style="background-color: #f2f2f2; padding: 30px;">
+    <div class="container">
+        <div class="my-3 d-flex justify-content-between m-3">
+            <h3>Đơn hàng đã nhận</h3>
+            <form class="d-flex" role="search">
+                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-success" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+            </form>
+        </div>
+        <div class="bg-white p-3 m-3 row" style="border-radius:1rem">
+            <table class="table table-hover" style="background-color:#fff; border-radius:20px">
+                <tr>
+                    <th>
+                        @Html.DisplayName("Mã đơn hàng")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Nhân viên nhận")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Thời gian nhận")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Trạng thái")
+                    </th>
+                    <th class="text-center">
+                        @Html.DisplayName("Actions")
+                    </th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(model => item.MaDonHang)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(model => item.NhanVienNhan)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ThoiGianNhan)
+                        </td>
+                        <td>
+                            @if (Convert.ToInt32(@item.TrangThai) == 2)
+                            {
+                                @Html.DisplayName("Đã nhận đơn")
+                            }
+                        </td>
+                        <td class="text-center">
+                            @Html.ActionLink("Chi tiết", "Details", "DH_DaNhan", new { id = item.MaDonHang }, new { @class = "btn btn-outline-success" })
+                            @Html.ActionLink("Phân phối", "PhanPhoi", "DH_DaNhan", new { id = item.MaDonHang }, new { @class = "btn btn-success my-1" })
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+
+        if ($("#notice").is(':visible')) {
+            $("#notice").css({ "position": "fixed", "bottom": "5%", "right": "2%" })
+
+            $("#notice").fadeIn(2500, function () {
+                $("#notice").fadeOut(3000)
+            });
+        }
+    });
+</script>

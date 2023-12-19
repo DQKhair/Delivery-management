@@ -1,0 +1,96 @@
+﻿
+@{
+    ViewBag.Title = "Thống kê đơn đã giao";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container" style="padding: 30px 50px; border-radius: 1rem">
+    <h4 class="text-center">Biểu đồ thống kê đơn hàng đã giao</h4>
+    <div class="d-flex my-3">
+        <div class="w-25">
+            <h6>Năm:</h6>
+            @Html.DropDownList("Year", null, "Select", new { @class = "form-select p-2", @id = "totalyear" })
+        </div>
+        <div class="w-25 mx-3">
+            <h6>Tháng:</h6>
+            @Html.DropDownList("Month", null, "Select", new { @class = "form-select p-2", @id = "totalmonth" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-1 my-auto">
+            <p>Số lượng</p>
+        </div>
+        <div class="col-11">
+            <div id="barChart" class="container w-100 mt-4 align-items-center" style="height: 400px;">
+                <canvas id="Chart_DG"></canvas>
+            </div>
+            <p style="margin-left: 38%;">Thời gian (ngày)</p>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+
+    //Lấy năm hiện tại để hiển thị chart - mặc định trang chart không bị trống lúc đầu khi load dữ liệu
+    var Year = new Date();
+    var Month = new Date();
+    GetCurrentYear(Year.getFullYear(), Month.getMonth() + 1);
+
+    //Xét sk onchange để lấy dữ liệu theo giá trị year
+    $('#totalyear').on('change', function () {
+        $('#totalmonth').on('change', function () {
+            var year = $('#totalyear').val();
+            var month = $(this).val();
+            GetCurrentYear(year, month);
+            console.log(year);
+            console.log(month);
+        });
+    });
+
+    function GetCurrentYear(year, month) {
+        $.get('/ThongKe/Chart?year=' + year, 'month=' + month, function (res) {
+            CreateChart(res);
+        });
+    }
+
+
+    function CreateChart(lstdata) {
+
+        //Xóa chart cũ tạo chart mới mỗi khi load lại
+        $("canvas#Chart_DG").remove();
+        $('#barChart').html('<canvas id="Chart_DG"></canvas>');
+
+        var label = [];
+        var dtsource = [];
+
+        $.each(lstdata, function (index, item) {
+            label.push(item.Ngay);
+            dtsource.push(item.SL);
+        });
+
+        console.log(label);
+
+        var chart = document.getElementById("Chart_DG");
+
+        var barchart = {
+            labels: label,
+            datasets: [
+                {
+                    label: 'Số lượng đơn đã giao',
+                    backgroundColor: 'rgb(67,172,82,0.5)',
+                    borderColor: 'rgb(34,133,66)',
+                    borderWidth: 1,
+                    data: dtsource
+                }
+            ]
+        };
+
+        var myBarChart = new Chart(chart, {
+            type: 'bar',
+            data: barchart,
+        });
+    }
+
+</script>
+

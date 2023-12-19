@@ -1,0 +1,204 @@
+﻿@model IEnumerable<Delivery.Models.TaiKhoan_TimKiem_Result>
+@*@model IEnumerable<Delivery.Models.View_DanhSachTK>*@
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var successMessage = TempData["SuccessMessage"] as string;
+
+}
+
+@if (!string.IsNullOrEmpty(successMessage))
+{
+    <div id="notice" class="position-fixed" role="alert" style="bottom:5%; right:2%; width:32%;  background-color: rgba(36, 200, 104, 0.8); border-radius: 2.5rem;">
+        <div class="d-flex justify-content-around" style="height: 90px; position: relative;">
+
+            <i class="fas fa-check position-absolute top-50 translate-middle-y p-4 text-center"
+               style="background-color: rgba(36, 200, 104, 1); border-radius:50%; color:white; left:10%;"></i>
+
+            <div class="position-absolute top-50 translate-middle-y" style="right:25%; color:white;">
+                <h5>@successMessage</h5>
+            </div>
+
+        </div>
+    </div>
+}
+
+@using (Html.BeginForm())
+{
+    <div class="container" style="background-color: #F2F2F2; padding: 50px 50px 20px 50px; ">
+        <div class="form-horizontal" style="background-color: white; padding: 30px; border-radius: 1rem">
+            <h4>Người dùng hệ thống</h4>
+            <hr />
+            <div class="d-flex justify-content-around">
+                <div class="col mb-3">
+                    <label for="" class="form-label">Tên tài khoản </label>
+                    <input type="text" class="form-control" id="" value="" name="tenTK" placeholder="" />
+                </div>
+                <div class="col mb-3">
+                    <label for="" class="form-label">Họ tên</label>
+                    <input type="text" class="form-control" value="" name="hoten" />
+                </div>
+                <div class="col mb-3">
+                    <label for="" class="form-label">Loại tài khoản</label>
+                    <input type="text" class="form-control" value="" name="loaiTK" />
+                </div>
+            </div>
+            <hr />
+            <div class="d-flex justify-content-between">
+                @Html.ActionLink("+ Thêm tài khoản", "Create", "TaiKhoan", new { @class = "btn btn-success", @style = "border-radius: 1.5rem" })
+                <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                    @Html.ActionLink("Reset", "Index", "TaiKhoan", new { @class = "btn btn-outline-success", @style = "border-radius: 1.5rem;  width: 100px;" })
+                    <input type="submit" value="Search" class="btn btn-success" style="border-radius: 1.5rem; width: 100px; " />
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+<div class="container" style="background-color: #F2F2F2; padding: 0 50px 50px 50px;">
+    <div class="form-horizontal" style="background-color: white; padding: 30px; border-radius: 1rem;">
+        <table class="table table-hover">
+            <tr>
+                <th>
+                    @Html.DisplayName("Tên Tài Khoản")
+                </th>
+                <th>
+                    @Html.DisplayName("Họ tên")
+                </th>
+                <th>
+                    @Html.DisplayName("Loại tài khoản")
+                </th>
+                <th>
+                    @Html.DisplayName("Actions")
+                </th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(model => item.TenTaiKhoan)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => item.TenNhanVien)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => item.LoaiTaiKhoan)
+                    </td>
+                    <td>
+                        <button data-bs-toggle="modal" data-bs-target="#reset" class="toggle" style="background-color: rgba(0,0,0,0.05); border-radius: 50%;
+                             border: none;" value="@item.TenTaiKhoan">
+                            <i class="fas fa-sync-alt"></i>
+                        </button>
+                        <button class="acc_info" onclick="location.href = '@Url.Action("Details", "TaiKhoan", new { id = item.MaNhanVien })'"
+                                style="background-color: rgba(0,0,0,0.05); border-radius: 50%; margin-left: 5px; border: none; text-decoration:none;">
+                            <i class="fas fa-info " style="width:16px;"></i>
+                        </button>
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>
+
+<div class="modal fade" id="reset" tabindex="-1" style="display: none;">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="card p-2 p-lg-3">
+                <div class="text-center body_head">
+                    <h1 class="mb-3 h4">Reset</h1>
+                    <p>Bạn có chắc reset mật khẩu cho tài khoản này ?</p>
+                    <button class="icon_close"><i style="color: white" class="fas fa-times" data-bs-dismiss="modal"></i></button>
+                </div>
+                <form action="/TaiKhoan/Reset" method="post">
+                    <div>
+                        <input style="max-width: 100%; width: 75%;" type="text" class="form-control mx-auto" id="id_reset" name="id" readonly>
+                    </div>
+                    <div class="body_choice">
+                        <button type="submit" class="btn_res">Reset</button>
+                        <button type="button" class="btn_no" data-bs-dismiss="modal">Cancel</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<style>
+
+    .toggle:hover {
+        box-shadow: inset 0 0 0 9999px var(--bs-table-accent-bg);
+    }
+
+    .acc_info:hover {
+        box-shadow: inset 0 0 0 9999px var(--bs-table-accent-bg);
+    }
+
+    .icon_close {
+        position: absolute;
+        top: -0.5rem;
+        right: -0.5rem;
+        background-color: #b8bdc7;
+        border-radius: 50%;
+        border: none;
+    }
+
+
+    .body_head {
+        text-align: center;
+        padding-top: 10px;
+        border-top-right-radius: 10px;
+        border-top-left-radius: 10px;
+    }
+
+
+    .body_choice {
+        display: flex;
+        justify-content: space-around;
+        margin: 20px;
+    }
+
+    .btn_res {
+        padding: 8px 20px;
+        border: none;
+        outline: none;
+        border-radius: 3em;
+        background-color: rgba(60,179,113,.3);
+    }
+
+    .btn_no {
+        padding: 8px 20px;
+        border: none;
+        outline: none;
+        border-radius: 3em;
+        background-color: rgba(100,114,140,.1);
+    }
+</style>
+
+<script>
+    $(document).ready(function () {
+
+        if ($("#notice").is(':visible')) {
+            $("#notice").css({ "position": "fixed", "bottom": "5%", "right": "2%" })
+
+            $("#notice").fadeIn(2500, function () {
+                $("#notice").fadeOut(3000)
+            });
+        }
+    });
+
+    var btn_reset = document.querySelectorAll(".toggle");
+    var id_reset = document.getElementById("id_reset");
+
+
+    btn_reset.forEach(element => {
+        element.onclick = function () {
+            id_reset.value = element.value;
+        }
+    });
+
+
+</script>

@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Delivery.Models.DonHang_GetListDonHang_Result>
+@{
+    ViewBag.Title = "DanhSachPhanPhoiDonHang";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid" style="background-color: #f2f2f2; padding: 30px;">
+    <div class="container">
+        <div class="my-3 d-flex justify-content-between m-3">
+            <h3>Đơn hàng đã phân phối</h3>
+            <form class="d-flex" role="search">
+                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-success" type="submit">Search</button>
+            </form>
+        </div>
+        <div class="bg-white p-3 m-3 row" style="border-radius:1rem">
+            <table class="table table-hover" style="background-color:#fff; border-radius:20px">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.MaDonHang)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.NhanVienPhanPhoi)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.ThoiGianPhanPhoi)
+                    </th>
+                    <th>@Html.DisplayNameFor(model=>model.NhanVienGiao)</th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TrangThai)
+                    </th>
+                    <th class="text-center">
+                        @Html.DisplayName("Actions")
+                    </th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(model => item.MaDonHang)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(model => item.NhanVienPhanPhoi)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ThoiGianPhanPhoi)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.NhanVienGiao)
+                        </td>
+                        <td>
+                            @if (Convert.ToInt32(@item.TrangThai) == 3)
+                            {
+                                @Html.DisplayName("Đã phân phối")
+                            }
+                        </td>
+                        <td class="text-center">
+                            @Html.ActionLink("Xem chi tiết", "Details_PhanPhoi", "DH_DaNhan", new { id = item.MaDonHang }, new { @class = "btn btn-outline-success" })
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+</div>

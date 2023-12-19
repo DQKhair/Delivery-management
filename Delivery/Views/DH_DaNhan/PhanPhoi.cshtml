@@ -1,0 +1,137 @@
+﻿@model Delivery.Models.DonHang
+
+@{
+    ViewBag.Title = "Phân phối đơn";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid" style="background-color: #f2f2f2; padding:30px;">
+    <div class="container">
+        <h2>Phân phối đơn hàng</h2>
+    </div>
+    <div class="bg-white p-3 m-3 row" style="border-radius:1rem">
+        <div class="col-md-10 w-100">
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="row mt-2">
+                    <div class="col">
+                        <p class="fw-bold">@Html.DisplayName("Mã đơn hàng")</p>
+                        <input class="form-control" type="text" value="@Html.DisplayFor(model => model.MaDonHang)" aria-label="Disabled input example" readonly>
+                        @Html.ValidationMessageFor(model => model.MaDonHang, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col">
+                        <p class="fw-bold">@Html.DisplayName("Trạng thái đơn")</p>
+                        <input type="text" name="TrangThai" value="Đã nhận đơn" class="form-control" readonly />
+                        @Html.ValidationMessageFor(model => model.TrangThai, "", new { @class = "text-danger"})
+                    </div>
+                    <div class="col">
+                        <p class="fw-bold">@Html.DisplayName("Ghi chú")</p>
+                        @Html.EditorFor(model => model.GhiChu, new { htmlAttributes = new { @class = "form-control",@readonly = "readonly" } })
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <div class="col">
+                        <p class="fw-bold">@Html.DisplayName("Mã nhân viên nhận đơn")</p>
+                        @Html.EditorFor(model => model.NhanVienNhan, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+                        @Html.ValidationMessageFor(model => model.NhanVienNhan, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col">
+                        <p class="fw-bold">@Html.DisplayName("Thời gian nhận đơn")</p>
+                        @Html.EditorFor(model => model.ThoiGianNhan, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+                        @Html.ValidationMessageFor(model => model.ThoiGianNhan, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col">
+                        <p class="fw-bold">@Html.DisplayName("Trạng thái xử lý")</p>
+                        <input type="text" name="TrangThaiXuLy" value="Chờ phân phối" class="form-control" readonly />
+                        @Html.ValidationMessageFor(model => model.GhiChu, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="d-flex justify-content-between border-bottom mt-5">
+                    <h5>Thông tin người gửi</h5>
+                </div>
+                <div class="row mb-5 mt-2">
+                    <div class="col">
+                        <p class="fw-bold">@Html.DisplayName("Người gửi")</p>
+                        @Html.EditorFor(model => model.NguoiGui, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+                        @Html.ValidationMessageFor(model => model.NguoiGui, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col">
+                        <p class="fw-bold">@Html.DisplayName("Số điện thoại")</p>
+                        @Html.EditorFor(model => model.SdtNguoiGui, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+                        @Html.ValidationMessageFor(model => model.SdtNguoiGui, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col">
+                        <p class="fw-bold">@Html.DisplayName("Địa chỉ")</p>
+                        @Html.EditorFor(model => model.Tu, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+                        @Html.ValidationMessageFor(model => model.Tu, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="d-flex justify-content-between border-bottom">
+                    <h5>Thông tin người nhận</h5>
+                </div>
+                <div class="row mt-2">
+                    <div class="col">
+                        <p class="fw-bold">@Html.DisplayName("Người nhận")</p>
+                        @Html.EditorFor(model => model.NguoiNhan, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+                        @Html.ValidationMessageFor(model => model.NguoiNhan, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col">
+                        <p class="fw-bold">@Html.DisplayName("Số điện thoại")</p>
+                        @Html.EditorFor(model => model.Sdt, new { htmlAttributes = new { @class = "form-control mb-1", @readonly = "readonly" } })
+                        @Html.ValidationMessageFor(model => model.Sdt, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col">
+                        <p class="fw-bold">@Html.DisplayName("Số nhà")</p>
+                        @Html.EditorFor(model => model.DiaChiNguoiNhan, new { htmlAttributes = new { @class = "form-control mb-2", @readonly = "readonly" } })
+                        @Html.ValidationMessageFor(model => model.DiaChiNguoiNhan, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="row mt-2">
+                    <div class="col">
+                        <p class="fw-bold">@Html.DisplayName("Phường")</p>
+                        @Html.EditorFor(model => model.DiaChiPhuong, new { htmlAttributes = new { @class = "form-control mb-2", @readonly = "readonly" } })
+                        @Html.ValidationMessageFor(model => model.DiaChiPhuong, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col">
+                        <p class="fw-bold">@Html.DisplayName("Quận")</p>
+                        @Html.EditorFor(model => model.DiaChiQuan, new { htmlAttributes = new { @class = "form-control mb-2", @readonly = "readonly" } })
+                        @Html.ValidationMessageFor(model => model.DiaChiQuan, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col">
+                        <p class="fw-bold">@Html.DisplayName("Thành phố")</p>
+                        @Html.EditorFor(model => model.DiaChiThanhPho, new { htmlAttributes = new { @class = "form-control mb-2", @readonly = "readonly" } })
+                        @Html.ValidationMessageFor(model => model.DiaChiThanhPho, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="d-flex justify-content-between border-bottom mt-5">
+                    <h5>Phân phối</h5>
+                </div>
+                <div class="row mt-2">
+                    @Html.LabelFor(model => model.NhanVienGiao, "Nhân viên giao hàng", htmlAttributes: new { @class = "fw-bold control-label" })
+                    <div class="col mt-3">
+                        @Html.DropDownList("MaNhanVien", null, htmlAttributes: new { @class = "form-select" })
+                        @Html.ValidationMessageFor(model => model.NhanVienGiao, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="d-flex my-3" style="margin-left:78%;">
+                        @Html.ActionLink("Hủy", "Index", "DH_DaNhan", new { @class = "btn btn-outline-success", @style = "border-radius: 1.5rem;  width: 100px;" })
+                        <div class="col">
+                            <input type="submit" value="Phân Phối" class="btn btn-success mx-2 align-items-end" style="border-radius: 1.5rem;  width: 100px;" />
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

@@ -1,0 +1,231 @@
+﻿@model Delivery.Models.DonHang_Find_detail_Result
+@{
+    ViewBag.Title = "Chi tiết đơn hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    int trangthai = Convert.ToInt32(Html.DisplayFor(model => model.TrangThai).ToString());
+}
+
+<style>
+    .timeline {
+        white-space: nowrap;
+        overflow-x: hidden;
+    }
+
+        .timeline ol {
+            font-size: 0;
+            width: 100vw;
+            padding: 300px 0;
+            transition: all 1s;
+        }
+
+            .timeline ol li {
+                position: relative;
+                display: inline-block;
+                list-style-type: none;
+                width: 6%;
+                height: 3px;
+                background: #fff;
+            }
+
+                .timeline ol li:last-child {
+                    width: 280px;
+                }
+
+                .timeline ol li:not(:first-child) {
+                    margin-left: 14px;
+                }
+
+                .timeline ol li:not(:last-child)::after {
+                    content: '';
+                    position: absolute;
+                    top: 50%;
+                    left: calc(100% + 1px);
+                    bottom: 0;
+                    width: 12px;
+                    height: 12px;
+                    transform: translateY(-50%);
+                    border-radius: 50%;
+                    background: #43ac52;
+                }
+
+                /*Style cho Phần tử Timeline*/
+                .timeline ol li div {
+                    position: absolute;
+                    left: calc(100% + 7px);
+                    padding: 15px;
+                    font-size: 1rem;
+                    white-space: normal;
+                    color: black;
+                    background: white;
+                }
+
+                    .timeline ol li div::before {
+                        content: '';
+                        position: absolute;
+                        top: 100%;
+                        left: 0;
+                        width: 0;
+                        height: 0;
+                        border-style: solid;
+                    }
+                /*Sau đó, một số style cho những phần tử lẻ:*/
+                .timeline ol li:nth-child(odd) div {
+                    top: -16px;
+                    transform: translateY(-100%);
+                }
+
+                    .timeline ol li:nth-child(odd) div::before {
+                        top: 100%;
+                        border-width: 8px 8px 0 0;
+                        border-color: white transparent transparent transparent;
+                    }
+                /*Và cuối cùng là một số style cho những phần tử chẵn:*/
+                .timeline ol li:nth-child(even) div {
+                    top: calc(100% + 16px);
+                }
+
+                    .timeline ol li:nth-child(even) div::before {
+                        top: -8px;
+                        border-width: 8px 0 0 8px;
+                        border-color: transparent transparent transparent white;
+                    }
+        /*Style cho Điều hướng Timeline*/
+        .timeline .arrows {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+
+            .timeline .arrows .arrow__prev {
+                margin-right: 20px;
+            }
+
+        .timeline .disabled {
+            opacity: .5;
+        }
+
+        .timeline .arrows img {
+            width: 45px;
+            height: 45px;
+        }
+</style>
+
+<div class="container" style="background-color: #F2F2F2; padding: 50px;">
+    <h5 class="fw-bold text-uppercase text-center">Trạng Thái của đơn hàng có mã: <span class="text-danger">@Html.DisplayFor(model => model.MaDonHang)</span></h5>
+    <div>
+        <div>
+            <p><b>Người gửi: </b>@Html.DisplayFor(model => model.NguoiGui)</p>
+            <p><b>Người nhận: </b>@Html.DisplayFor(model => model.NguoiNhan)</p>
+            <p><b>Địa chỉ giao hàng: </b>@Html.DisplayFor(model => model.DiaChiNguoiNhan), @Html.DisplayFor(model => model.DiaChiPhuong), @Html.DisplayFor(model => model.DiaChiQuan), @Html.DisplayFor(model => model.DiaChiThanhPho)</p>
+        </div>
+        <div></div>
+    </div>
+    <div class="container p-4">
+        @if (trangthai != 0 && trangthai <=7)
+        {
+            <section class="timeline">
+                <ol>
+                    <li>
+                        <div>
+                            @if (trangthai >= 1)
+                            {
+                                <p><span class="text-success">Trạng thái:</span> Chờ xử lý</p>
+                            }
+                            else
+                            {
+                                <p class="text-danger fst-italic">Đang trong quá trình xử lý đơn</p>
+                            }
+                        </div>
+                    </li>
+                    
+                    <!-- more list items here -->
+
+                    <li>
+                        <div>
+                            @if (trangthai >= 2)
+                            {
+                                <p> <span class="text-success">Thời gian:</span>@Html.DisplayFor(model => model.ThoiGianNhan)</p>
+                                <p><span class="text-success">Trạng thái:</span> Đã nhận</p>
+                            }
+                            else
+                            {
+                                <p class="text-danger fst-italic">Đang trong quá trình xử lý đơn</p>
+                            }
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                            @if (trangthai >= 3)
+                            {
+                                <p> <span class="text-success">Thời gian:</span>@Html.DisplayFor(model => model.ThoiGianPhanPhoi)</p>
+                                <p><span class="text-success">Trạng thái:</span> Đã phân phối</p>
+                            }
+                            else
+                            {
+                                <p class="text-danger fst-italic">Đang trong quá trình xử lý đơn</p>
+                            }
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                            @if (trangthai >= 4)
+                            {
+                                <p> <span class="text-success">Thời gian:</span>@Html.DisplayFor(model => model.ThoiGianNhanDon)</p>
+                                <p><span class="text-success">Trạng thái</span> Shipper đã nhận đơn</p>
+                            }
+                            else
+                            {
+                                <p class="text-danger fst-italic">Đang trong quá trình xử lý đơn</p>
+                            }
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                            @if (trangthai >= 5)
+                            {
+                                <p> <span class="text-success">Thời gian:</span>@Html.DisplayFor(model => model.ThoiGianLayHang)</p>
+                                <p><span class="text-success">Trạng thái</span> Đã lấy hàng</p>
+                            }
+                            else
+                            {
+                                <p class="text-danger fst-italic">Đang trong quá trình xử lý đơn</p>
+                            }
+                        </div>
+                    </li>
+                    <li>
+                        <div>   
+                            @if (trangthai >= 6)
+                            {
+                                <p> <span class="text-success">Thời gian:</span>@Html.DisplayFor(model => model.ThoiGianGiao)</p>
+                                <p><span class="text-success">Trạng thái</span> Đang giao hàng</p>
+                            }
+                            else
+                            {
+                                <p class="text-danger fst-italic">Đang trong quá trình xử lý đơn</p>
+                            }
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                            @if (trangthai >= 7)
+                            {
+                                <p> <span class="text-success">Thời gian:</span>@Html.DisplayFor(model => model.ThoiGianDaGiao)</p>
+                                <p><span class="text-success">Trạng thái</span> Đã giao</p>
+                            }
+                            else
+                            {
+                                <p class="text-danger fst-italic">Đang trong quá trình xử lý đơn</p>
+                            }
+                        </div>
+                    </li>
+                    <li></li>
+                </ol>
+            </section>
+        }
+        else
+        {
+            <h5 class="text-danger">Lỗi không tồn tại trạng thái đơn hàng</h5>
+        }
+    </div>
+
+</div>

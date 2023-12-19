@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="85d8d1ead7704a7988441cc7f901ce73" Name="Diagram1" ZoomLevel="62" >
+        <EntityTypeShape EntityType="GiaoHangModel.ChucNang" Width="1.5" PointX="3" PointY="4.5" />
+        <EntityTypeShape EntityType="GiaoHangModel.DonHang" Width="1.5" PointX="8.25" PointY="2.875" />
+        <EntityTypeShape EntityType="GiaoHangModel.KhuVuc" Width="1.5" PointX="3.75" PointY="2" />
+        <EntityTypeShape EntityType="GiaoHangModel.LoaiTaiKhoan" Width="1.5" PointX="0.75" PointY="4.875" />
+        <EntityTypeShape EntityType="GiaoHangModel.NhanVien" Width="1.5" PointX="6" PointY="3.625" />
+        <EntityTypeShape EntityType="GiaoHangModel.TrangThaiDonHang" Width="1.5" PointX="6" PointY="1" />
+        <AssociationConnector Association="GiaoHangModel.FK__ChucNang__MaLoai__45F365D3" />
+        <AssociationConnector Association="GiaoHangModel.FK__DonHang__NhanVie__46E78A0C" />
+        <AssociationConnector Association="GiaoHangModel.FK__DonHang__NhanVie__47DBAE45" />
+        <AssociationConnector Association="GiaoHangModel.FK__DonHang__NhanVie__48CFD27E" />
+        <AssociationConnector Association="GiaoHangModel.FK_DonHang_TrangThaiDonHang" />
+        <AssociationConnector Association="GiaoHangModel.FK_NhanVien_KhuVuc" />
+        <AssociationConnector Association="GiaoHangModel.FK_NhanVien_LoaiTaiKhoan" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

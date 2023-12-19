@@ -1,0 +1,1041 @@
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\obj\Debug\Delivery.csproj.AssemblyReference.cache
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\Delivery.dll.config
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\Delivery.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\Delivery.pdb
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\csc.exe
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\csc.exe.config
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\csc.rsp
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\csi.exe
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\csi.exe.config
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\csi.rsp
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\System.Buffers.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\System.Memory.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\vbc.exe
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\vbc.exe.config
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\vbc.rsp
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\Antlr3.Runtime.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\EntityFramework.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\EntityFramework.SqlServer.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\Newtonsoft.Json.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\System.Web.Helpers.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\System.Web.Mvc.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\System.Web.Optimization.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\System.Web.Razor.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\System.Web.WebPages.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Razor.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\WebGrease.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\Antlr3.Runtime.pdb
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\EntityFramework.xml
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\EntityFramework.SqlServer.xml
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\Newtonsoft.Json.xml
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\System.Web.Helpers.xml
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\System.Web.Mvc.xml
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\System.Web.Optimization.xml
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\System.Web.Razor.xml
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\System.Web.WebPages.xml
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Razor.xml
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\obj\Debug\Delivery.csproj.CopyComplete
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\obj\Debug\Delivery.dll
+C:\Users\NNP\Desktop\Delivery\Delivery\Delivery\obj\Debug\Delivery.pdb
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\Delivery.dll.config
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\Delivery.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\Delivery.pdb
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\csc.exe
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\csc.exe.config
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\csc.rsp
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\csi.exe
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\csi.exe.config
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\csi.rsp
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\System.Buffers.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\System.Collections.Immutable.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\System.Memory.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\System.Numerics.Vectors.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\System.Reflection.Metadata.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\vbc.exe
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\vbc.exe.config
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\vbc.rsp
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe.config
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\Antlr3.Runtime.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\EntityFramework.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\EntityFramework.SqlServer.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\Microsoft.Web.Infrastructure.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\Newtonsoft.Json.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\System.Web.Helpers.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\System.Web.Mvc.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\System.Web.Optimization.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\System.Web.Razor.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Deployment.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\System.Web.WebPages.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Razor.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\WebGrease.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\Antlr3.Runtime.pdb
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\EntityFramework.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\EntityFramework.SqlServer.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\Newtonsoft.Json.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\System.Web.Helpers.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\System.Web.Mvc.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\System.Web.Optimization.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\System.Web.Razor.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\System.Web.WebPages.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Deployment.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Razor.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\obj\Debug\Delivery.csproj.AssemblyReference.cache
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\obj\Debug\Delivery.csproj.CopyComplete
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\obj\Debug\Delivery.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\Delivery\obj\Debug\Delivery.pdb
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\Delivery.dll.config
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\Delivery.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\Delivery.pdb
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\csc.exe
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\csc.rsp
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\csi.exe
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\csi.rsp
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\System.Buffers.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\System.Memory.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\vbc.exe
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\EntityFramework.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\System.Web.Razor.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\WebGrease.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\EntityFramework.xml
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\System.Web.Razor.xml
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\obj\Debug\Delivery.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\obj\Debug\Delivery.csproj.CopyComplete
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\obj\Debug\Delivery.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\obj\Debug\Delivery.pdb
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\BCrypt.Net.dll
+C:\Users\ASUS\Downloads\GH2KP\Delivery\Delivery\Delivery\bin\BCrypt.Net.xml
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\Delivery.dll.config
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\Delivery.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\Delivery.pdb
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\csc.exe
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\csc.rsp
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\csi.exe
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\csi.rsp
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\System.Buffers.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\System.Memory.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\vbc.exe
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\BCrypt.Net.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\EntityFramework.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.Razor.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\WebGrease.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\BCrypt.Net.xml
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\EntityFramework.xml
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.Razor.xml
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.csproj.CopyComplete
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.dll
+C:\Users\ASUS\Downloads\GH_demo\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.pdb
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\Delivery.dll.config
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\Delivery.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\Delivery.pdb
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\csc.exe
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\csc.exe.config
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\csc.rsp
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\csi.exe
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\csi.exe.config
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\csi.rsp
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\System.Buffers.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\System.Memory.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\vbc.exe
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\vbc.rsp
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\BCrypt.Net.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\EntityFramework.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.Helpers.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.Mvc.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.Optimization.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.Razor.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\WebGrease.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\BCrypt.Net.xml
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\EntityFramework.xml
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.Helpers.xml
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.Mvc.xml
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.Optimization.xml
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.Razor.xml
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.xml
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.csproj.CopyComplete
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.dll
+C:\Users\Asus\Downloads\GH_demo\GH_demo\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.pdb
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\Delivery.dll.config
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\Delivery.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\Delivery.pdb
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\csc.exe
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\csc.exe.config
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\csc.rsp
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\csi.exe
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\csi.exe.config
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\csi.rsp
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\System.Buffers.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\System.Collections.Immutable.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\System.Memory.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\System.Numerics.Vectors.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\System.Reflection.Metadata.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\vbc.exe
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\vbc.exe.config
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\vbc.rsp
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe.config
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\Antlr3.Runtime.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\BCrypt.Net.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\EntityFramework.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\EntityFramework.SqlServer.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\Microsoft.Web.Infrastructure.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\Newtonsoft.Json.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\System.Web.Helpers.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\System.Web.Mvc.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\System.Web.Optimization.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\System.Web.Razor.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Deployment.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\System.Web.WebPages.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Razor.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\WebGrease.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\Antlr3.Runtime.pdb
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\BCrypt.Net.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\EntityFramework.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\EntityFramework.SqlServer.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\Newtonsoft.Json.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\System.Web.Helpers.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\System.Web.Mvc.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\System.Web.Optimization.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\System.Web.Razor.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\System.Web.WebPages.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Deployment.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Razor.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\obj\Debug\Delivery.csproj.AssemblyReference.cache
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\obj\Debug\Delivery.csproj.CopyComplete
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\obj\Debug\Delivery.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\obj\Debug\Delivery.pdb
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\PagedList.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\PagedList.Mvc.dll
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\PagedList.xml
+D:\HK2 (2022 - 2023)\Delivery\Delivery\Delivery\bin\PagedList.Mvc.xml
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\Delivery.dll.config
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\Delivery.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\Delivery.pdb
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\csc.exe
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\csc.exe.config
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\csc.rsp
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\csi.exe
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\csi.exe.config
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\csi.rsp
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.targets
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\System.Buffers.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\System.Collections.Immutable.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\System.Memory.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\System.Numerics.Vectors.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\System.Reflection.Metadata.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\vbc.exe
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\vbc.exe.config
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\vbc.rsp
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe.config
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\Antlr3.Runtime.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\BCrypt.Net.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\EntityFramework.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\EntityFramework.SqlServer.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\Microsoft.Web.Infrastructure.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\Newtonsoft.Json.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\PagedList.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\PagedList.Mvc.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\System.Web.Helpers.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\System.Web.Mvc.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\System.Web.Optimization.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\System.Web.Razor.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Deployment.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\System.Web.WebPages.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Razor.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\WebGrease.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\Antlr3.Runtime.pdb
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\BCrypt.Net.xml
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\EntityFramework.xml
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\EntityFramework.SqlServer.xml
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\Newtonsoft.Json.xml
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\PagedList.xml
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\PagedList.Mvc.xml
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\System.Web.Helpers.xml
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\System.Web.Mvc.xml
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\System.Web.Optimization.xml
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\System.Web.Razor.xml
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\System.Web.WebPages.xml
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Deployment.xml
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Razor.xml
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\obj\Debug\Delivery.csproj.AssemblyReference.cache
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\obj\Debug\Delivery.csproj.CopyComplete
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\obj\Debug\Delivery.dll
+D:\2022-2023\HeQuanTri_CSDL\Doan\Delivery\Delivery\Delivery\obj\Debug\Delivery.pdb
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\Delivery.dll.config
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\Delivery.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\Delivery.pdb
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\csc.exe
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\csc.rsp
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\csi.exe
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\csi.rsp
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Buffers.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Memory.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\vbc.exe
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\BCrypt.Net.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\EntityFramework.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\PagedList.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\PagedList.Mvc.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.Razor.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\WebGrease.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\BCrypt.Net.xml
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\EntityFramework.xml
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\PagedList.xml
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\PagedList.Mvc.xml
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.Razor.xml
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\obj\Debug\Delivery.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\obj\Debug\Delivery.csproj.CopyComplete
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\obj\Debug\Delivery.dll
+C:\Users\ASUS\Downloads\GiaoHang-master\GiaoHang-master\Delivery\Delivery\obj\Debug\Delivery.pdb
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\Delivery.dll.config
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\Delivery.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\Delivery.pdb
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\csc.exe
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\csc.exe.config
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\csc.rsp
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\csi.exe
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\csi.exe.config
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\csi.rsp
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.targets
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Buffers.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Collections.Immutable.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Memory.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Numerics.Vectors.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Reflection.Metadata.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\vbc.exe
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\vbc.exe.config
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\vbc.rsp
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe.config
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\Antlr3.Runtime.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\BCrypt.Net.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\EntityFramework.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\EntityFramework.SqlServer.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\Microsoft.Web.Infrastructure.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\Newtonsoft.Json.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\PagedList.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\PagedList.Mvc.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.Helpers.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.Mvc.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.Optimization.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.Razor.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.WebPages.Deployment.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.WebPages.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.WebPages.Razor.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\WebGrease.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\Antlr3.Runtime.pdb
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\BCrypt.Net.xml
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\EntityFramework.xml
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\EntityFramework.SqlServer.xml
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\Newtonsoft.Json.xml
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\PagedList.xml
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\PagedList.Mvc.xml
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.Helpers.xml
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.Mvc.xml
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.Optimization.xml
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.Razor.xml
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.WebPages.xml
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.WebPages.Deployment.xml
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\bin\System.Web.WebPages.Razor.xml
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\obj\Debug\Delivery.csproj.AssemblyReference.cache
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\obj\Debug\Delivery.csproj.CopyComplete
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\obj\Debug\Delivery.dll
+D:\2022-2023\HeQuanTri_CSDL\GiaoHang-master\GiaoHang-master\Delivery\Delivery\obj\Debug\Delivery.pdb
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\Delivery.dll.config
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\Delivery.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\Delivery.pdb
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\csc.exe
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\csc.exe.config
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\csc.rsp
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\csi.exe
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\csi.exe.config
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\csi.rsp
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Buffers.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Memory.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\vbc.exe
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\vbc.rsp
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\BCrypt.Net.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\EntityFramework.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\PagedList.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\PagedList.Mvc.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\System.Web.Helpers.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\System.Web.Mvc.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\System.Web.Optimization.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\System.Web.Razor.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\System.Web.WebPages.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\WebGrease.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\BCrypt.Net.xml
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\EntityFramework.xml
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\PagedList.xml
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\PagedList.Mvc.xml
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\System.Web.Helpers.xml
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\System.Web.Mvc.xml
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\System.Web.Optimization.xml
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\System.Web.Razor.xml
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\System.Web.WebPages.xml
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\obj\Debug\Delivery.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\obj\Debug\Delivery.csproj.CopyComplete
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\obj\Debug\Delivery.dll
+C:\Users\Asus\Downloads\GiaoHang-master_khai\GiaoHang-master\Delivery\Delivery\obj\Debug\Delivery.pdb
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\Delivery.dll.config
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\Delivery.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\Delivery.pdb
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\csc.exe
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\csc.exe.config
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\csc.rsp
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\csi.exe
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\csi.exe.config
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\csi.rsp
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\System.Buffers.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\System.Collections.Immutable.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\System.Memory.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\System.Numerics.Vectors.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\System.Reflection.Metadata.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\vbc.exe
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\vbc.exe.config
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\vbc.rsp
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe.config
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\Antlr3.Runtime.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\BCrypt.Net.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\EntityFramework.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\EntityFramework.SqlServer.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\Microsoft.Web.Infrastructure.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\Newtonsoft.Json.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\PagedList.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\PagedList.Mvc.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\System.Web.Helpers.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\System.Web.Mvc.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\System.Web.Optimization.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\System.Web.Razor.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Deployment.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\System.Web.WebPages.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Razor.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\WebGrease.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\Antlr3.Runtime.pdb
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\BCrypt.Net.xml
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\EntityFramework.xml
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\EntityFramework.SqlServer.xml
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\Newtonsoft.Json.xml
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\PagedList.xml
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\PagedList.Mvc.xml
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\System.Web.Helpers.xml
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\System.Web.Mvc.xml
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\System.Web.Optimization.xml
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\System.Web.Razor.xml
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\System.Web.WebPages.xml
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Deployment.xml
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\bin\System.Web.WebPages.Razor.xml
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\obj\Debug\Delivery.csproj.AssemblyReference.cache
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\obj\Debug\Delivery.csproj.CopyComplete
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\obj\Debug\Delivery.dll
+D:\HK2 (2022 - 2023)\CNPMNC\Delivery\Delivery\Delivery\obj\Debug\Delivery.pdb
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\Delivery.dll.config
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\Delivery.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\Delivery.pdb
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\csc.exe
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\csc.rsp
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\csi.exe
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\csi.rsp
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\System.Buffers.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\System.Memory.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\vbc.exe
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\BCrypt.Net.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\EntityFramework.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\PagedList.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\PagedList.Mvc.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.Razor.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\WebGrease.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\BCrypt.Net.xml
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\EntityFramework.xml
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\PagedList.xml
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\PagedList.Mvc.xml
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.Razor.xml
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.dll
+C:\Users\ASUS\Downloads\Delivery-main\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.pdb
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\Delivery.dll.config
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\Delivery.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\Delivery.pdb
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\csc.exe
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\csc.exe.config
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\csc.rsp
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\csi.exe
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\csi.exe.config
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\csi.rsp
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.targets
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\System.Buffers.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\System.Collections.Immutable.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\System.Memory.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\System.Numerics.Vectors.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\System.Reflection.Metadata.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\vbc.exe
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\vbc.exe.config
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\vbc.rsp
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe.config
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\Antlr3.Runtime.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\BCrypt.Net.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\EntityFramework.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\EntityFramework.SqlServer.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\Microsoft.Web.Infrastructure.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\Newtonsoft.Json.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\PagedList.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\PagedList.Mvc.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.Helpers.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.Mvc.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.Optimization.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.Razor.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Deployment.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Razor.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\WebGrease.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\Antlr3.Runtime.pdb
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\BCrypt.Net.xml
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\EntityFramework.xml
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\EntityFramework.SqlServer.xml
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\Newtonsoft.Json.xml
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\PagedList.xml
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\PagedList.Mvc.xml
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.Helpers.xml
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.Mvc.xml
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.Optimization.xml
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.Razor.xml
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.xml
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Deployment.xml
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Razor.xml
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.csproj.AssemblyReference.cache
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.csproj.CopyComplete
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.dll
+D:\2022-2023\CNPM_NC\Doan\Delivery-main\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.pdb
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\Delivery.dll.config
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\Delivery.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\Delivery.pdb
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\csc.exe
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\csc.exe.config
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\csc.rsp
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\csi.exe
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\csi.exe.config
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\csi.rsp
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.targets
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\System.Buffers.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\System.Collections.Immutable.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\System.Memory.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\System.Numerics.Vectors.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\System.Reflection.Metadata.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\vbc.exe
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\vbc.exe.config
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\vbc.rsp
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe.config
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\Antlr3.Runtime.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\BCrypt.Net.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\EntityFramework.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\EntityFramework.SqlServer.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\Microsoft.Web.Infrastructure.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\Newtonsoft.Json.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\PagedList.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\PagedList.Mvc.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\System.Web.Helpers.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\System.Web.Mvc.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\System.Web.Optimization.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\System.Web.Razor.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Deployment.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Razor.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\WebGrease.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\Antlr3.Runtime.pdb
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\BCrypt.Net.xml
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\EntityFramework.xml
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\EntityFramework.SqlServer.xml
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\Newtonsoft.Json.xml
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\PagedList.xml
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\PagedList.Mvc.xml
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\System.Web.Helpers.xml
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\System.Web.Mvc.xml
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\System.Web.Optimization.xml
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\System.Web.Razor.xml
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.xml
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Deployment.xml
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Razor.xml
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.csproj.AssemblyReference.cache
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.csproj.CopyComplete
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.dll
+D:\2022-2023 HK2\CNPMNC\DELIVERY_FULL_30052023\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.pdb
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\Delivery.dll.config
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\Delivery.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\Delivery.pdb
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\csc.exe
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\csc.exe.config
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\csc.rsp
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\csi.exe
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\csi.exe.config
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\csi.rsp
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.targets
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\System.Buffers.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\System.Collections.Immutable.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\System.Memory.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\System.Numerics.Vectors.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\System.Reflection.Metadata.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\vbc.exe
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\vbc.exe.config
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\vbc.rsp
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\roslyn\VBCSCompiler.exe.config
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\Antlr3.Runtime.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\BCrypt.Net.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\EntityFramework.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\EntityFramework.SqlServer.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\Microsoft.Web.Infrastructure.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\Newtonsoft.Json.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\PagedList.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\PagedList.Mvc.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\System.Web.Helpers.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\System.Web.Mvc.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\System.Web.Optimization.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\System.Web.Razor.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Deployment.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Razor.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\WebGrease.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\Antlr3.Runtime.pdb
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\BCrypt.Net.xml
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\EntityFramework.xml
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\EntityFramework.SqlServer.xml
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\Newtonsoft.Json.xml
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\PagedList.xml
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\PagedList.Mvc.xml
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\System.Web.Helpers.xml
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\System.Web.Mvc.xml
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\System.Web.Optimization.xml
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\System.Web.Razor.xml
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.xml
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Deployment.xml
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\bin\System.Web.WebPages.Razor.xml
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.csproj.AssemblyReference.cache
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.csproj.CopyComplete
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.dll
+D:\2023-2024\HK1\DesignPatterns\DoAn\Delivery-main\Delivery\Delivery\obj\Debug\Delivery.pdb

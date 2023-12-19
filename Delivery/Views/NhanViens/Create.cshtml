@@ -1,0 +1,52 @@
+﻿@model Delivery.Models.NhanVien_ChuaTK_Result
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="container" style="background-color: #F2F2F2; padding: 50px; margin: auto">
+        <div class="form-horizontal" style="background-color: white; padding: 30px; border-radius: 1rem">
+            <h4>Thêm nhân viên</h4>
+            <hr />
+            @Html.ValidationMessage("CreateFailed", new { @class = "text-danger" })
+
+            <div class="row mb-3">
+                <div class="col">
+                    @Html.DisplayName("Họ tên")
+                    <input type="text" class="form-control" name="TenNhanVien" placeholder="" required , maxlength="50" />
+                </div>
+                <div class="col">
+                    @Html.DisplayName("Ngày sinh")
+                    <input type="date" class="form-control" name="NgaySinh" placeholder="" required />
+                </div>
+                <div class="col">
+                    @Html.DisplayName("Email")
+                    <input type="email" class="form-control" name="Email" placeholder="" required />
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-4">
+                    @Html.DisplayName("Số điện thoại")
+                    <input type="text" class="form-control" name="SoDienThoai" required placeholder="" />
+                </div>
+                <div class="col-4">
+                    @Html.DisplayName("Khu vực hoạt động")
+                    @Html.DropDownList("MaKhuVuc", null, new { @class = "form-select" })
+                </div>
+            </div>
+            <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                @Html.ActionLink("Hủy", "Index", "NhanViens", new { @class = "btn btn-outline-success", @style = "border-radius: 1.5rem;  width: 100px;" })
+                <input type="submit" value="Thêm" class="btn btn-success" style="border-radius: 1.5rem; width: 100px;" />
+            </div>
+        </div>
+    </div>
+}
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

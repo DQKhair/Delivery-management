@@ -1,0 +1,112 @@
+﻿@model IEnumerable<Delivery.Models.DonHang>
+@{
+    ViewBag.Title = "Đơn hàng chờ xử lý";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var successMessage = TempData["SuccessMessage"] as string;
+}
+
+@if (!string.IsNullOrEmpty(successMessage))
+{
+    <div id="notice" class="position-fixed" role="alert" style="bottom:5%; right:2%; width:32%; background-color: rgba(36, 200, 104, 0.8); border-radius: 2.5rem;">
+        <div class="d-flex justify-content-around" style="height: 90px; position: relative;">
+
+            <i class="fas fa-check position-absolute top-50 translate-middle-y p-4 text-center"
+               style="background-color: rgba(36, 200, 104, 1); border-radius:50%; color:white; left:10%;"></i>
+
+            <div class="position-absolute top-50 translate-middle-y" style="right:25%; color:white;">
+                <h5>@successMessage</h5>
+            </div>
+
+        </div>
+    </div>
+}
+
+<div class="container" style="background-color: #F2F2F2; padding: 50px;">
+
+    <div class="d-flex justify-content-between mb-3">
+        <h3 class="fw-bold">Đơn hàng chờ xử lý</h3>
+        <form class="d-flex" role="search">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-success" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+        </form>
+    </div>
+    <div class="form-horizontal" style="background-color: white; padding: 30px; border-radius: 1rem">
+        @*<p>
+                @Html.ActionLink("Create New", "Create")
+            </p>*@
+        <div class="">
+            <table class="table table-hover">
+                <tr>
+                    <th>
+                        @Html.DisplayName("Mã đơn hàng")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Người gửi")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Địa chỉ người gửi")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Địa chỉ người nhận")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Người nhận")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Trạng thái")
+                    </th>
+                    <th class="text-center">
+                        @Html.DisplayName("Actions")
+                    </th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            <p>@Html.DisplayFor(model => item.MaDonHang)</p>
+                        </td>
+                        <td>
+                            <p>@Html.DisplayFor(model => item.NguoiGui)</p>
+                        </td>
+                        <td>
+                            <p>@Html.DisplayFor(model => item.Tu)</p>
+                        </td>
+                        <td>
+                            <p>@Html.DisplayFor(model => item.DiaChiNguoiNhan), @Html.DisplayFor(model => item.DiaChiPhuong), @Html.DisplayFor(model => item.DiaChiQuan), @Html.DisplayFor(model => item.DiaChiThanhPho)</p>
+                        </td>
+                        <td>
+                            <p>@Html.DisplayFor(model => item.NguoiNhan)</p>
+                        </td>
+                        <td>
+                            @{
+                                int trangThai = Convert.ToInt32(Html.DisplayFor(model => item.TrangThai).ToString());
+                                if (trangThai == 1)
+                                {
+                                    <p>Chờ xử lý</p>
+                                }
+                            }
+                        </td>
+                        <td class="text-center" style="width:20%">
+                            @Html.ActionLink("Chi tiết", "Details", new { id = @item.MaDonHang }, new { @class = "btn btn-outline-success" })
+                            @Html.ActionLink("Nhận đơn", "NhanDon", new { id = @item.MaDonHang }, new { @class = "btn btn-success" })
+                        </td>
+                       
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+</div>
+
+<script>
+$(document).ready(function () {
+
+        if ($("#notice").is(':visible')) {
+            $("#notice").css({ "position": "fixed", "bottom": "5%", "right": "2%" })
+
+            $("#notice").fadeIn(2500, function () {
+                $("#notice").fadeOut(3000)
+            });
+        }
+    });</script>

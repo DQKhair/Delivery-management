@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Delivery.Models.NhanVien_Xoa_ChiTiet_Result >
+
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container" style="background-color: #F2F2F2; padding: 50px;">
+    <div class="form-horizontal" style="background-color: white; padding: 30px; border-radius: 1rem; width: 40%; margin-left: 30%;">
+        <h4 style="text-align:center;">Xác nhận xóa nhân viên?</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayName("Mã nhân viên")
+            </dt>
+
+            <dd>
+                @ViewBag.XoaNhanVien.MaNhanVien
+            </dd>
+
+            <dt>
+                @Html.DisplayName("Họ tên")
+            </dt>
+
+            <dd>
+                @ViewBag.XoaNhanVien.TenNhanVien
+            </dd>
+
+            <dt>
+                @Html.DisplayName("Ngày sinh")
+            </dt>
+
+            <dd>
+                @ViewBag.XoaNhanVien.NgaySinh.ToString("yyyy-MM-dd")
+            </dd>
+
+            <dt>
+                @Html.DisplayName("Email")
+            </dt>
+
+            <dd>
+                @ViewBag.XoaNhanVien.Email
+            </dd>
+
+            <dt>
+                @Html.DisplayName("Số điện thoại")
+            </dt>
+
+            <dd>
+                @ViewBag.XoaNhanVien.SoDienThoai
+            </dd>
+        </dl>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+             <div class="form-actions no-color" style="display:flex; justify-content: center;">
+                @Html.ActionLink("Hủy", "Index", "NhanViens", new { @class = "btn btn-outline-success", @style = "border-radius: 1.5rem;  width: 100px;" })
+                <input type="submit" value="Xóa" class="btn btn-success" style="border-radius: 1.5rem;  width: 100px; margin-left:10px;" />
+             </div>
+        }
+    </div>
+</div>

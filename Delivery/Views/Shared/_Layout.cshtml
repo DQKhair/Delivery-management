@@ -1,0 +1,124 @@
+﻿@using Delivery.Common;
+@using Delivery.Models;
+@{
+    var session = (List<MenuOf_Result>)Session[CommonConstants.CHUC_NANG];
+    var session_user = Session[CommonConstants.TEN_NGUOI_DUNG];
+    string controller = ViewContext.RouteData.Values["controller"].ToString();
+    
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/bootstrap")
+    @Scripts.Render("~/Scripts/jquery-3.7.0.js")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <script src="https://kit.fontawesome.com/fbda8849fb.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <!--#region Vùng không sửa code -->
+    <header>
+        <!-- Cái này là thanh điều hướng trên cùng -->
+        <div class="wrap-navbar">
+            <nav class="navigation-bar">
+                <div class="space"></div>
+                <div class="nav-content d-flex justify-content-end align-items-center">
+                    <div class="user-option-wrap">
+                        <div class="user-option-name">
+                            <span>@if (session_user != null) { Write(session_user); } else { Write("Chưa có tên"); }</span>
+                        </div>
+                        <div class="user-option-img">
+                            @if (Session[CommonConstants.Hinh_anh] != null)
+                            {
+                                var Hinh_anh = Session[CommonConstants.Hinh_anh] as Profile_Get_Result;
+                                if (Hinh_anh.ImageData != null)
+                                {
+                                    <img style="border-radius:50%;" src="data:image/@Hinh_anh.ImageExtension;base64,@Convert.ToBase64String(Hinh_anh.ImageData)" alt="Alternate Text">
+                                }
+                                else
+                                {
+                                    <img style="border-radius:50%;" src="~/Images/logo.png" alt="Alternate Text" />
+                                }
+                            }
+
+
+                        </div>
+                        <div class="user-option-dropdown-btn">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 19 11" fill="none">
+                                <path d="M0.324495 2.04013L8.08015 10.4396C8.20516 10.5749 8.36024 10.6835 8.53474 10.758C8.70923 10.8325 8.89902 10.871 9.09108 10.871C9.28315 10.871 9.47294 10.8325 9.64743 10.758C9.82193 10.6835 9.977 10.5749 10.102 10.4396L17.8577 2.04013C18.5978 1.23839 17.9842 -1.73979e-06 16.8467 -1.69007e-06L1.33321 -1.01195e-06C0.19577 -9.62232e-07 -0.417891 1.23839 0.324495 2.04013Z" fill="white" />
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="user-option-dropdown-menu-wrap shadow-sm">
+                        <ul class="user-option-dropdown-menu">
+                            <li><a href="@Url.Action("ProfileView","Profile")">@CommonConstants.OPTION_1</a></li>
+                            <li><a href="#">@CommonConstants.OPTION_2</a></li>
+                            <li><a href="#">@CommonConstants.OPTION_3</a></li>
+                            <li class="cross-line"><a href="@Url.Action("Login","Account")">@CommonConstants.OPTION_LOGOUT</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <div class="main d-flex">
+        <div class="wrap-sidebar">
+            <div class="sidebar shadow-lg d-flex flex-column">
+                <div class="logo">
+                    <img src="~/Images/logo.png" alt="" srcset="">
+                    <div class="logo-name">
+                        <div class="ghk2p"><p>ghk2p</p></div>
+                        <div class="delivery"><p> delivery</p></div>
+                    </div>
+                </div>
+                <div class="main-menu holder">
+                    <div class="main-menu-holder">
+                        <div class="minimize-button" id="minimize-button">
+                            <i class='mini-icon bx bx-chevron-left'></i>
+                        </div>
+                    </div>
+                </div>
+                <ul class="main-menu">
+                    @if (session != null)
+                    {
+                        foreach (var chucNang in session)
+                        {
+                            <li class="main-menu-item-wrap @if (chucNang.Controller == controller) { Write("active"); } ">
+                                <a class="main-menu-item" href="@Url.Action(chucNang.RouteName,chucNang.Controller)">
+                                    @Html.Raw(chucNang.BieuTuong)
+                                    <span class="pt-1">@chucNang.TenChucNang</span>
+                                </a>
+                            </li>
+                        }
+                    }
+                </ul>
+            </div>
+        </div>
+        <!--#endregion -->
+        <div class="wrap-content d-flex flex-column">
+            @RenderBody()
+            <!-- Nơi thả content vào -->
+            <!-- Không sửa class -->
+            <div class="content-row-space shadow-sm">
+                <!-- Hàng chức năng ở trên -->
+                <!-- Không sửa class "content-row-space" -->
+            </div>
+            <div class="content">
+                <!-- Trong này là nội dung theo từng chức năng -->
+                <!-- Không sửa class "content" -->
+            </div>
+
+            <footer>© 2023 GHK2P.</footer>
+        </div>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/app")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
